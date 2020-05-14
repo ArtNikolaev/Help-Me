@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Help Me!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="HelpMe"> Help Me </string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_message">Сообщения</string>
+    <string name="menu_help">Запрос помощи</string>
+    <string name="menu_want_to_help">Хочу помочь!</string>
+    <string name="menu_сharity_events">Благотворительные Акции!</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
